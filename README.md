@@ -1,5 +1,7 @@
 # kha-debug-stats
 
+![](sample1.png)
+
 ```haxe
 class Main {
 	static var stats : kha.debug.Statistics.Display;
